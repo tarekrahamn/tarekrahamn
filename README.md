@@ -5,7 +5,7 @@
 <p>
 This is Tarek Rahman, an enthusiastic undergraduate pursuing a degree in Computer Science and Engineering at United International University in Bangladesh. Programming has always been my passion, and I've dedicated myself to mastering the elegant language of C++. As I continue on this exciting journey, I've been immersing myself in the captivating realm of Competitive Programming, where I'm constantly exploring its complexities and embracing the exhilarating challenges it presents.
   </p>
-<img align="right" alt="programming" width"400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="programming" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarekrahamn&label=Profile%20views&color=0e75b6&style=flat" alt="tarekrahamn" /> </p>
 
