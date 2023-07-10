@@ -34,4 +34,4 @@ This is Tarek Rahman, an enthusiastic undergraduate pursuing a degree in Compute
 
 <p>&nbsp;<img align="center" src=https://github-readme-stats.vercel.app/api?username=tarekrahamn&show_icons=true&locale=en" alt="tarekrahamn" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tarekrahamn&" alt="tarekrahamn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarekrahamn&" alt="tarekrahamn" /></p>
