@@ -21,6 +21,7 @@
 <a href="https://www.codechef.com/users/tarek200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tarek200" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@tarekrahamn01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tarekrahamn01" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tarek200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tarek200" height="30" width="40" /></a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tarekrahamn&theme=react&line_height=40&hide=css"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,6 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tarekrahamn&show_icons=true&locale=en&layout=compact" alt="tarekrahamn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarekrahamn&show_icons=true&locale=en" alt="tarekrahamn" /></p>
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tarekrahamn&theme=react&line_height=40&hide=css"/> </a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarekrahamn&" alt="tarekrahamn" /></p>
