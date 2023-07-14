@@ -3,8 +3,10 @@
 <h1 align="center">Hi 👋, This is Tarek Rahman</h1>
 <h3 align="center">A passionate Software Engineer and Competitive programmer from Bangladesh</h3>
 I'm just your average CSE student studying at <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh.
+I am passionate about competitive programming and have a strong interest in problem-solving. I thoroughly enjoy participating in coding contests and continually strive to enhance my programming skills. Currently, I am focused on learning data structures and algorithms to further improve my abilities. I firmly believe in the value of teamwork and collaboration, and I actively seek opportunities to engage with fellow programmers in competitions.
+You can check out my <a href="https://github.com/tarekrahamn?tab=repositories">repos</a>. 
 
-You can check out my <a href="https://github.com/tarekrahamn?tab=repositories">repos</a>. I have projects in C/C++, Java,and javafx till now. More to come!!
+
 
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
