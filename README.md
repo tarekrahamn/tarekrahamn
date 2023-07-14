@@ -29,4 +29,12 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarekrahamn&" alt="tarekrahamn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarekrahamn&" alt="tarekrahamn" /></p
+## Github Stats:
+
+[![Jishan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tarekrahamn&theme=radical&hide=issues&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tarekrahamn&layout=compact&theme=radical&langs_count=6&count_private=true&hide=html,css,handlebars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tarekrahamn&theme=monokai&row=1&title=Stars,Followers,Commit,PR,Repositories)](https://github.com/ryo-ma/github-profile-trophy)                                                                                                                       
+                                                                                                                       
+                                                                                                                       
