@@ -29,7 +29,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarekrahamn&" alt="tarekrahamn" /></p
 ## Github Stats:
 
 [![Jishan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tarekrahamn&theme=radical&hide=issues&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
