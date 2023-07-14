@@ -1,5 +1,4 @@
 ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2021/05/687474703a2f2f692e696d6775722e636f6d2f304f50346f6f642e676966.gif)
-![MasterHead](https://raw.githubusercontent.com/tarekrahamn/tarekrahamn/main/assets/focus-animation.gif)
 
 
 <h1 align="center">Hi 👋, This is Tarek Rahman</h1>
