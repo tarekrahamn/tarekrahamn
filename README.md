@@ -1,4 +1,3 @@
-![MasterHead](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
 
 
 <h1 align="center">Hi 👋, This is Tarek Rahman</h1>
