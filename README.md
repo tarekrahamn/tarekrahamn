@@ -20,6 +20,12 @@ You can check out my <a href="https://github.com/tarekrahamn?tab=repositories">r
 
 - ⚡ Fun fact **I think I am funny😅**
 
+- ### 🌱 Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nextjs,react,remix,nestjs,prisma,materialui,tailwind,nodejs,cpp,c,go,java,py,php,wordpress,jquery,html,css,flutter,kotlin,graphql,postgres,mysql,gcp,aws,docker,ubuntu,raspberrypi&perline=10)](https://skillicons.dev)
+
+<!-- hono,firebase,linux -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tarek-rahman00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarek-rahman00" height="30" width="40" /></a>
