@@ -23,10 +23,7 @@ You can check out my <a href="https://github.com/tarekrahamn?tab=repositories">r
 
  
  ### 🌱 Skills:
-
 [![My Skills](https://skillicons.dev/icons?i=ts,js,materialui,tailwind,cpp,c,java,py,php,wordpress,jquery,html,css,kotlin,mysql,&perline=10)](https://skillicons.dev)
-
-<!-- hono,firebase,linux -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
