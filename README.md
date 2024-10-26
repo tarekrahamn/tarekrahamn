@@ -24,7 +24,7 @@ You can check out my <a href="https://github.com/tarekrahamn?tab=repositories">r
  
  ### 🌱 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nextjs,react,remix,nestjs,prisma,materialui,tailwind,nodejs,cpp,c,go,java,py,php,wordpress,jquery,html,css,flutter,kotlin,graphql,postgres,mysql,gcp,aws,docker,ubuntu,raspberrypi&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,materialui,tailwind,cpp,c,java,py,php,wordpress,jquery,html,css,kotlin,mysql,&perline=10)](https://skillicons.dev)
 
 <!-- hono,firebase,linux -->
 
@@ -49,11 +49,17 @@ You can check out my <a href="https://github.com/tarekrahamn?tab=repositories">r
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarekrahamn&" alt="tarekrahamn" /></p
 
-## Github Stats:
+### 📊 GitHub Stats
 
-[![Jishan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tarekrahamn&theme=radical&hide=issues&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tarekrahamn&layout=compact&theme=radical&langs_count=6&count_private=true&hide=html,css,handlebars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="GitHub stats" height="195px" src="https://github-readme-stats-sooty-nine-75.vercel.app/api?username=tarekrahamn&show_icons=true&exclude_repo=github-readme-stats,qutip-tutorials-ipynb,selva,kishukusha-hp-theme,testrepo" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Top Langs" height="195px" src="https://github-readme-stats-sooty-nine-75.vercel.app/api/top-langs/?username=tarekrahamn&layout=donut&exclude_repo=github-readme-stats,qutip-tutorials-ipynb,selva,kishukusha-hp-theme,testrepo,os-30days" />
+    </a>
+</p>                                        
+                                                                                                                       
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tarekrahamn&theme=monokai&row=1&title=Stars,Followers,Commit,PR,Repositories)](https://github.com/ryo-ma/github-profile-trophy)                                                                                                                       
                                                                                                                        
                                                                                                                        
