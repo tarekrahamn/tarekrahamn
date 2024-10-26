@@ -20,7 +20,9 @@ You can check out my <a href="https://github.com/tarekrahamn?tab=repositories">r
 
 - ⚡ Fun fact **I think I am funny😅**
 
-- ### 🌱 Skills:
+
+ 
+ ### 🌱 Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nextjs,react,remix,nestjs,prisma,materialui,tailwind,nodejs,cpp,c,go,java,py,php,wordpress,jquery,html,css,flutter,kotlin,graphql,postgres,mysql,gcp,aws,docker,ubuntu,raspberrypi&perline=10)](https://skillicons.dev)
 
