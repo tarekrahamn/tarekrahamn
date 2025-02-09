@@ -1,9 +1,11 @@
 
 
 <h1 align="center">Hi 👋, This is Tarek Rahman</h1>
-<h3 align="center">A passionate Software Engineer and Competitive programmer from Bangladesh</h3>
-I'm just your average CSE student studying at <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh.
-I am passionate about competitive programming and have a strong interest in problem-solving. I thoroughly enjoy participating in coding contests and continually strive to enhance my programming skills. Currently, I am focused on learning data structures and algorithms to further improve my abilities. I firmly believe in the value of teamwork and collaboration, and I actively seek opportunities to engage with fellow programmers in competitions.
+<h3 align="center">A passionate Software Engineer and Researcher from Bangladesh</h3>
+I'm a Computer Science and Engineering (CSE) student at  <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh.
+I have a deep passion for competitive programming and problem-solving. I actively participate in coding contests and continuously work on improving my programming skills. Currently, I am focusing on mastering data structures and algorithms to enhance my problem-solving abilities.
+
+Beyond competitive programming, I strongly believe in teamwork and collaboration, often engaging with fellow programmers in competitions. Recently, I have also started research in Data Science and Machine Learning, expanding my knowledge in these cutting-edge fields.
 You can check out my <a href="https://github.com/tarekrahamn?tab=repositories">repos</a>. 
 
 
